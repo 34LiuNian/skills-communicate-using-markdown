@@ -7,3 +7,7 @@ while(1){
   sleep();
 }
 ```
+
+- [ ] Organize wrong questions
+- [x] Play
+- [ ] Fix something
